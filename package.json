@@ -1,7 +1,7 @@
 {
-  "name": "nekomy",
-  "version": "0.1.10",
-  "description": "An open source LMS (eLearning platform) for MOOCs and online courses",
+  "name": "Kid-Koderz",
+  "version": "0.0.01",
+  "description": "The LMS platform that powers the leading Tech-Ed Academy for Geniuses",
   "scripts": {
     "dev": "webpack-dev-server --config ./webpack/webpack-dev.config.js --watch --colors",
     "build": "rm -rf dist && webpack --config ./webpack/webpack-prod.config.js --colors",
@@ -18,9 +18,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nekomy/nekomy-platform"
+    "url": "git+https://github.com/fredsiika/kid-koderz"
   },
-  "author": "Nekomy <hello@nekomy.com> (http://nekomy.com)",
+  "author": "Fred Siika <fredsiika@gmail.com> (https://github.com/fredsiika)",
   "license": "GPL-2.0",
   "dependencies": {
     "classnames": "^2.2.5",
@@ -38,6 +38,7 @@
     "react-ga": "^2.1.2",
     "react-helmet": "^4.0.0",
     "react-hot-loader": "^3.0.0-beta.6",
+    "react-navigation": "^2.13.0",
     "react-redux": "^4.4.5",
     "react-router": "^2.4.0",
     "react-router-redux": "^4.0.5",

@@ -57,7 +57,7 @@ class Home extends Component {
             </div>
           </div>
           <div className="elevator-pitch">
-            <p>Nekomy is an international learning platform. You can study anytime, anywhere and network with your classmates around the world! You can also earn money by uploading your courses...</p>
+            <p>Kid Koderz is an international learning platform. You can study anytime, anywhere and network with your classmates around the world! As the leading service provider of 100% custom tailored technology education services to private clients, for kids and teens.</p>
             <p>
               <button className="btn btn-primary">Upload your course now</button>
             </p>

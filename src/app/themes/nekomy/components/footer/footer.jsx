@@ -12,9 +12,9 @@ class Footer extends Component {
   render() {
     return (
       <section className="footer">
-        <span>Nekomy Platform <span className="app-version" />
+        <span>Kid Koderz <span className="app-version" />
           <Icon glyph={Logo} />
-          2016 - 2017. Licensed under GPLv2. More info at <a href="http://nekomy.github.io/nekomy-platform/">nekomy.github.io/nekomy-platform</a>
+          2018. Licensed under GPLv2. More info at <a href="https://github.com/fredsiika/kid-koderz">Kid Kodrez Github</a>
         </span>
       </section>
     );

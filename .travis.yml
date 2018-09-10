@@ -1,3 +1,5 @@
+# TODO: 
+# Replace global user email, slack notifications, and firebase deploy token
 language: node_js
 node_js:
   - "7.4"

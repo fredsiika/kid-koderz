@@ -206,7 +206,7 @@ class TopNav extends Component {
 
           <Link to="/" className="logo">
             <Icon glyph={Logo} />
-            <Icon glyph={LogoWording} className="icon logo-wording" />
+            {/* <Icon glyph={LogoWording} className="icon logo-wording" /> */}
           </Link>
 
           {(!this.props.user || (this.props.user && !this.props.user.emailVerified))
